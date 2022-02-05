@@ -1,6 +1,6 @@
 # Graph Database for Linkedin&Github Profile
 
-![cover](image/cover.png)
+![cover](imgae/cover.png)
 
 This is final turn in for DSE203 class project. Team member: Steve, Yuan, Kayla
 
