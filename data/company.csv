@@ -1,0 +1,313 @@
+companyID,company
+0,Quora
+1,Lendingclub
+2,Plaid
+3,Securityscorecard
+4,Tata Consultancy Services
+5,Massachusetts Institute Of Technology
+6,Bayer Crop Science
+7,Galvanize Inc
+8,Amazon
+9,Github
+10,Insight Data Science
+11,Quill
+12,Aat Bioquest
+13,Northeastern University
+14,Expedia Group
+15,Fortive
+16,Zenith  Google
+17,Springboard
+18,Google
+19,The George Washington University School Of Business
+20,RealtorCom
+21,Apple
+22,Facebook
+23,Charles A Dana Center
+24,HEB
+25,Intel Corporation
+26,Palantir Technologies
+27,Rocky Mountain Business Equipment
+28,RiceApps
+29,Chatbooks
+30,San Jose State University
+31,Mozilla
+32,Freelance
+33,University Of California San Francisco
+34,Glassdoor
+35,Wideopenwest
+36,Clean Data Inc
+37,Moog Inc
+38,Bosch Rexroth
+39,Penn Engineering
+40,The University Of Texas At Dallas
+41,3M Health Information Systems
+42,Doordash
+43,Stealth Mode Start Up
+44,Statistical Visual Computing Lab
+45,Paypal
+46,Pinterest
+47,Flux Auto
+48,Cambridge Systematics Inc
+49,Iterative Scopes
+50,X The Moonshot Factory
+51,Netflix
+52,New Relic Inc
+53,Spotify
+54,Multilift Logistic Group
+55,Mercury Data Science
+56,ShaadiCom Website Engagement Campaign
+57,ActzeroAi
+58,Nintendo
+59,Southern Arkansas University
+60,Wayfair
+61,Brooke Army Medical Center
+62,University Of North Texas
+63,Marketing Evolution
+64,Jay Franco And Sons Inc
+65,University Of New Haven Graduate Admissions
+66,Microsoft
+67,Ecolab
+68,Atrium
+69,Zoox
+70,Brandywine Global Investment Management
+71,Samsung Electronics America
+72,US Bank
+73,Pinnacle
+74,Shift
+75,Favor Delivery
+76,Fractal
+77,Algorand Foundation
+78,Toast Inc
+79,Srm University
+80,Oxford Property Group
+81,St Jude ChildrenS Research Hospital  Alsac
+82,Devmountain Student Developers
+83,MoodyS Corporation
+84,Jvion
+85,Cisco
+86,Nvidia
+87,Asr Analytics Llc
+88,Cannabis Big Data
+89,Fresh Consulting
+90,Towards Data Science
+91,Veracode
+92,Mckesson
+93,Adobe
+94,Course Hero
+95,Cleco
+96,Autodesk
+97,Liba Edu
+98,Quolum
+99,Prime Clerk
+100,The Walt Disney Company
+101,Sports Analytics Group At Berkeley
+102,Akuna Capital
+103,Tapjoy
+104,Invoca
+105,Stitch Fix
+106,Project44
+107,Sunrun
+108,General Assembly
+109,Information Sciences Institute
+110,Td
+111,Audible
+112,Flywheel Technologies
+113,Northeastern University College Of Engineering
+114,Abbvie
+115,Intuit
+116,Halliburton
+117,Claremont Mckenna College
+118,Accolade Inc
+119,Duke University Health System
+120,The Home Depot
+121,Merck
+122,Nordstrom
+123,Khoury College Of Computer Sciences
+124,Heap
+125,Ey
+126,Nyc Data Science Academy
+127,Ugaap Lease Accounting Database
+128,Red Hat
+129,Stash
+130,Blend360
+131,Astrazeneca
+132,Wish
+133,Deloitte
+134,Comcast
+135,Softcrylic
+136,Kubient
+137,Databricks
+138,Monster Roll
+139,Penn State University
+140,Affine Analytics
+141,Intuitive Solutions
+142,Podium
+143,Credera
+144,Aristocrat
+145,Oportun
+146,Amazon Web Services Aws
+147,Mojix Engineering
+148,Zs
+149,The Learning Agency
+150,Statistical Visual Computing Lab At Ucsd
+151,Atlassian
+152,Groupm
+153,Nepal Economic Forum
+154,Jpmorgan Chase  Co
+155,Verizon Media
+156,Docusign
+157,Buoy Health
+158,EikonaDev
+159,Big Data Federation Inc
+160,Scout Clean Energy
+161,Visa
+162,University Of Idaho
+163,Mathworks
+164,Jefferies
+165,Warner Music Group
+166,Kla
+167,Mckinsey  Company
+168,Square
+169,Helm
+170,Meta
+171,Provoke Solutions
+172,Calix
+173,Cirrusmd Inc
+174,Fitbod
+175,Tesla
+176,Greater New York Insurance Companies
+177,Nike
+178,Komodo Health
+179,Qloo
+180,Yelp
+181,Loanpal
+182,Handshake
+183,Hulu
+184,Edmentum
+185,Ibm
+186,Credit Sesame
+187,Universiity LibrariesUmkc
+188,Walmart
+189,Vista Applied Solutions Group Inc
+190,Ford Motor Company
+191,Labcorp
+192,Barclays
+193,Myfitnesspal
+194,Bose Corporation
+195,Microsoft Harman
+196,Optimus Health Analytics
+197,First Republic Bank
+198,Intellext
+199,Capgemini
+200,Rxdatascience Inc
+201,Optum
+202,Capital One
+203,Phdata
+204,Deloitte Consulting
+205,American Express
+206,State Auto Insurance
+207,Dell Technologies
+208,Abacus Insights
+209,Goldman Sachs
+210,Avalara
+211,Caterpillar Inc
+212,Mx
+213,Covetrus
+214,Core Compete Part Of Accenture
+215,Unicef
+216,Panasonic North America
+217,Wood Mackenzie
+218,Usaa
+219,Northwest Missouri State University
+220,Fpt Software
+221,Nielsen
+222,University Of South Florida Muma College Of Business
+223,LoweS Companies Inc
+224,Cvs Health
+225,ReMax
+226,Airspace
+227,Cummins Inc
+228,Wells Fargo
+229,Comlinkdata
+230,Thomson Reuters
+231,Truist
+232,Ubs
+233,Empower Retirement
+234,Travelport
+235,Silicon Valley Bank
+236,Change Healthcare
+237,John Deere
+238,Fannie Mae
+239,Truist Bank
+240,Broadridge
+241,TMobile
+242,Csaa Insurance Group A Aaa Insurer
+243,University Of South Florida
+244,Bristol Myers Squibb
+245,Funwoo
+246,US Department Of Veterans Affairs
+247,Balyasny Asset Management LP
+248,Vimeo
+249,Instagram
+250,Samsung Sdi
+251,Seattle Data Guy
+252,Wipro Bpo Solutions Limited
+253,Cognizant
+254,American Airlines
+255,Petco
+256,Spring Point
+257,Salesforce
+258,Quantiphi
+259,TripCom
+260,Amazon Robotics
+261,Mtx Group Inc
+262,Michigan Technological University
+263,7Eleven
+264,Consumers Energy
+265,Roku Inc
+266,Rbc Bank
+267,Randstad
+268,Aggio
+269,Commutair Dba United Express
+270,Density
+271,Villagemd
+272,Airtable
+273,Ups
+274,Whoop
+275,Visual Bi Solutions An Atos Company
+276,Lyft
+277,Aetna A Cvs Health Company
+278,Dataeconomy
+279,Uplift Inc
+280,Uefa  Contract
+281,Slalom Build
+282,Clickup
+283,Talent Path
+284,Homesite Insurance
+285,Booz Allen Hamilton
+286,Liberty Mutual Insurance
+287,Spireon
+288,Northwestern Mutual
+289,Viacomcbs
+290,Cloudnova Technologies Llc
+291,Cluebix Software Opc PvtLtd
+292,Eclerx
+293,Fifth Third Bank
+294,IndeedCom
+295,Linkedin
+296,Starschema
+297,Blackline
+298,Discovery Communication
+299,Torch
+300,Sri International
+301,Blue Coat Systems Acquired By Symantec
+302,Sisense
+303,Mgm Resorts International
+304,Credit Suisse
+305,Klaviyo
+306,Unitedhealth Group
+307,Sysco
+308,Novo Nordisk
+309,Cobec Consulting Inc
+310,Ampion Inc
+311,Teksystems  Facebook
